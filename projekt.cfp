@@ -12,9 +12,9 @@
 </Folder>
 <Folder name="Other Files">
 </Folder>
-<Attribute topline="1" x="13" y="59">main.c</Attribute>
-<Attribute topline="13" x="1" y="1">funkcje.c</Attribute>
-<Attribute topline="1" x="8" y="6">funkcje.h</Attribute>
+<Attribute topline="1" x="1" y="40">main.c</Attribute>
+<Attribute topline="4" x="39" y="3">funkcje.c</Attribute>
+<Attribute topline="1" x="23" y="3">funkcje.h</Attribute>
 <DefConfig>mingw2.95</DefConfig>
 <Builder name="mingw2.95" type="MinGW (Old)" version="1.0">
 	<TargetName>projekt</TargetName>
